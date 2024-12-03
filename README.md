@@ -2,7 +2,7 @@
 <h3 align="center">I am a Software Test Engineer</h3>
 
 - 💬  I am a 23-year-old passionate software test engineer, working remotely and pursuing a master's degree. 
-- 🔭  I work remotely as a software test engineer for a software company based in the Netherlands. I write automation test codes, perform API tests using Postman, and conduct manual tests when necessary. I am the only tester on the team, creating and executing all test cases.
+- 🔭  I graduated from the Department of Management Information Systems with a GPA of 3.36, during which I completed two internships. Shortly after finishing my undergraduate studies, I began my master’s degree in Software Engineering. I successfully completed my master’s with a GPA of 3.60, focusing on Software Test Automation for my thesis project. While pursuing my master’s, I worked for one year as a Software Test Engineer at a Netherlands-based software company. Currently, I am continuing my career as a Software Test Engineer at Huawei.
 - 👨‍💻 Currently, I mainly work with Selenium, Appium, Postman, and JMeter, coding in Java.
 - 📝 I’m currently learning Playwright ,Sql ,Jenkins 
 - 📫 How to reach me eraycakir35@gmail.com
