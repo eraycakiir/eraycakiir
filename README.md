@@ -3,7 +3,7 @@
 
 - 💬 I am a Software Test Engineer specializing in test automation, UI/API testing, database testing, and backend/frontend validation.  
 - 🔭 I graduated from the Department of Genetics and Bioengineering with a 3.60 GPA. Later, I pursued a Master's in Software Engineering, focusing on Software Test Automation for my thesis project. I am currently pursuing a second Master's in Logistics Management.  
-- 👨‍💻 I have professional experience in software testing, working for a Netherlands-based software company for a year. After a brief trial at Huawei, I voluntarily resigned due to a mismatch in work culture. Now, I am continuing my career as a **Software Test Engineer at Quadified**, focusing on test automation for international telecom clients like **Cisco and Webbing**.  
+- 👨‍💻 I have professional experience in software testing, working for a Netherlands-based software company for a year. After a brief trial at Huawei, I voluntarily resigned due to a mismatch in work culture. Now, I am continuing my career as a **Software Test Engineer at Quadified**, focusing on test automation for international telecom clients 
 - 🔍 I work with **Selenium, Appium, Postman, JMeter**, and **Playwright**, coding in **Java and Python**.  
 - 📝 I’m currently learning **CI/CD tools like Jenkins and advanced SQL database testing**.  
 - 📫 How to reach me: **eraycakir35@gmail.com**  
